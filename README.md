@@ -69,7 +69,8 @@ The goal is to explore and prepare a climate dataset (CO₂ emissions & other gr
 
 ### 📁 Files Included
 
-- model_training.ipynb → Jupyter Notebook with feature selection, training, and evaluation  
+- model_building.ipynb → Jupyter Notebook with feature selection, training, and evaluation
+- Model/forecasting_co2_emmision.zip → Zipped trained model file ('.pkl' inside)  
 
 ## 🛠 Tools Used
 
