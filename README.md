@@ -53,3 +53,30 @@ The goal is to explore and prepare a climate dataset (CO₂ emissions & other gr
 - Jupyter Notebook
 
 
+## ✅ Week 3 Milestone Completed: Final Stage – Predictive Modeling - (1 July, 2025)
+
+- *Imported Data and Setup:* Used cleaned dataset for ML modeling  
+- *Explored Features Again:* Final feature list confirmed based on visualization insights  
+- *Defined Hypothesis:* Established emission prediction as the modeling target  
+- *Selected Target and Features:* Chose independent and dependent variables  
+- *Split Dataset:* Divided data into training and testing sets  
+- *Feature Selection:* Applied recursive feature elimination with cross-validation  
+- *Model Selection & Tuning:*
+  - Used Random Forest Regressor  
+  - Performed hyperparameter tuning using cross-validation  
+- *Model Training:* Trained with best hyperparameters  
+- *Model Evaluation:* Tested the model on unseen data to evaluate performance  
+
+### 📁 Files Included
+
+- model_training.ipynb → Jupyter Notebook with feature selection, training, and evaluation  
+
+## 🛠 Tools Used
+
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Jupyter Notebook  
+
+
+
