@@ -83,3 +83,14 @@ The goal is to explore and prepare a climate dataset (CO₂ emissions & other gr
 - NumPy  
 - Scikit-learn  
 - Jupyter Notebook
+
+## 🎓 Internship & Timeline
+This project was developed as part of:
+
+🏛 Internship: Shell-Edunet Skills4Future AICTE Virtual Internship
+🧑‍💻 Intern: Surjeet Shokhanda
+🪪 AICTE Student ID: STU6834806c28daa1748271212
+🆔 Internship ID: INTERNSHIP_1746416864681834e0e35d8
+📅 Duration: June 16 – July 16, 2025 (4 weeks)
+🎯 Focus: Green Skills & AI in Environmental Monitoring
+🎓 Organized by: AICTE, Shell & Edunet Foundation
